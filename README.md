@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
+| [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
+| [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
