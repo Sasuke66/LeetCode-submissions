@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
