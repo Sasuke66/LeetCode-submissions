@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
+| [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
