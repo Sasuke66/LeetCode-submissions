@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
 ## Counting
 |  |
