@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
