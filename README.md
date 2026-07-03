@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
+| [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -163,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
