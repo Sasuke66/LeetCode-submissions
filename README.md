@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3731-find-missing-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -291,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
