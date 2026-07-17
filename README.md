@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
