@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0441-arranging-coins](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
+| [0754-reach-a-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0754-reach-a-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0509-fibonacci-number) |
+| [0754-reach-a-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0754-reach-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
