@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1436-destination-city](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1929-concatenation-of-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1436-destination-city](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1436-destination-city) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 ## String
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1436-destination-city](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1436-destination-city) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2185-counting-words-with-a-given-prefix) |
