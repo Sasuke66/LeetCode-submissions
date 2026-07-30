@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0217-contains-duplicate) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2351-first-letter-to-appear-twice) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
