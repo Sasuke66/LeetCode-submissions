@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1436-destination-city) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
