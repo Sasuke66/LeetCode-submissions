@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0119-pascals-triangle-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0143-reorder-list) |
@@ -396,9 +399,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1051-height-checker) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
