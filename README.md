@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
