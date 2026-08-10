@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0509-fibonacci-number) |
+| [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0509-fibonacci-number) |
 | [0754-reach-a-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0754-reach-a-number) |
+| [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1518-water-bottles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -417,4 +419,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0075-sort-colors) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
