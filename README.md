@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
