@@ -454,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0232-implement-queue-using-stacks) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
