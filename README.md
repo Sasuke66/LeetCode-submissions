@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0338-counting-bits) |
 | [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2351-first-letter-to-appear-twice) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
