@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0938-range-sum-of-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0938-range-sum-of-bst) |
 ## Array
 |  |
 | ------- |
@@ -467,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0229-majority-element-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
