@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0912-sort-an-array) |
+| [0929-unique-email-addresses](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0771-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1436-destination-city) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2351-first-letter-to-appear-twice) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
+| [0929-unique-email-addresses](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1436-destination-city) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
