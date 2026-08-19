@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
