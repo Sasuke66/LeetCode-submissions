@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0168-excel-sheet-column-title) |
+| [0371-sum-of-two-integers](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0509-fibonacci-number) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
