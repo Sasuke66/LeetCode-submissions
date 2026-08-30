@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0682-baseball-game) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0912-sort-an-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0754-reach-a-number) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0441-arranging-coins) |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0784-letter-case-permutation](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0784-letter-case-permutation) |
