@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0929-unique-email-addresses) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0754-reach-a-number) |
