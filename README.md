@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0338-counting-bits) |
