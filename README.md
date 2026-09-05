@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3904-smallest-stable-index-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [3904-smallest-stable-index-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
