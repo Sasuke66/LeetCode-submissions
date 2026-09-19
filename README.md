@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1518-water-bottles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Matrix
 |  |
 | ------- |
