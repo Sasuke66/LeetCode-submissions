@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2351-first-letter-to-appear-twice) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
