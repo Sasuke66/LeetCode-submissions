@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+| [3524-find-x-value-of-array-i](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3524-find-x-value-of-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1518-water-bottles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
