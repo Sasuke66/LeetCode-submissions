@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0877-stone-game) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
