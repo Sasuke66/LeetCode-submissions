@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Sasuke66/LeetCode-submissions/tree/master/1518-water-bottles) |
+| [2409-count-days-spent-together](https://github.com/Sasuke66/LeetCode-submissions/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sasuke66/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
