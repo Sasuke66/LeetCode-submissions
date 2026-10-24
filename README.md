@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0344-reverse-string) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sasuke66/LeetCode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Bubble Sort
 |  |
 | ------- |
